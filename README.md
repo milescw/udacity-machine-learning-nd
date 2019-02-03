@@ -1,1 +1,1 @@
-# udacity-machine-learning-nd-
+# udacity-machine-learning-nd
